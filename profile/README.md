@@ -6,4 +6,4 @@
 
 ### 👋 from Us!
 
-We are [Pluxcon Co., Ltd](https://pluxcon.com), operating [InfraPeak Inc.](https://infrapeak.net), [NetFracture Communications OÜ](https://netfracture.com/), and [Pluxcon eSports Co., Ltd](https://panthera.gg/). 
+We are [Pluxcon Co., Ltd](https://pluxcon.com), operating [InfraPeak Inc](https://infrapeak.net), [NetFracture Communications OÜ](https://netfracture.com/), and [Pluxcon eSports Co., Ltd](https://panthera.gg/). 
